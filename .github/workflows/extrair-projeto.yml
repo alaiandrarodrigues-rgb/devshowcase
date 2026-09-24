@@ -3,7 +3,7 @@ name: Extrair projeto
 on:
   push:
     branches:
-      - main
+      - principal
 permissions:
   contents: write
 
